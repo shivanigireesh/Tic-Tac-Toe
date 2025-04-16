@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-https://singular-kelpie-3a9cb9.netlify.app/
+https://thisistictactoegame.netlify.app/
